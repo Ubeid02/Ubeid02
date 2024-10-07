@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]!
+# Hi there! 👋 I'm Ubeid Brimbi Sentiaki!
 
 I'm an **Electrical Engineering Student** at Universitas Islam Kadiri, Kediri, and a **Front-End Developer** with a passion for building functional and aesthetically pleasing web applications. I enjoy leveraging technologies like HTML, CSS, JavaScript, and PHP, alongside frameworks such as **Bootstrap**, **Tailwind CSS**, and **Laravel** to create intuitive and responsive user interfaces.
 
