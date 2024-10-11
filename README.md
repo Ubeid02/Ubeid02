@@ -14,16 +14,16 @@ I'm an **Electrical Engineering Student** at Universitas Islam Kadiri, Kediri, a
 - **1st Place INOTEK Kota Kediri**: Developed the Satria Route Finder, an app to simplify user and driver tracking for public transportation in Kediri.
 
 ## 📚 Projects
-### 🔹 [Job Management Platform](https://github.com/yourrepository)
+### 🔹 [Job Management Platform](https://github.com/Ubeid02/inka_stages)
 Developed a web-based job management system for PT. INKA Persero to help employees and supervisors manage tasks in railway production.
 
-### 🔹 [Heavy Equipment Rental Company Profile](https://github.com/yourrepository)
+### 🔹 [Heavy Equipment Rental Company Profile](https://github.com/Ubeid02/afm-client)
 Created a company profile website for a heavy equipment rental industry to enhance online presence and client interaction.
 
-### 🔹 [IoT Aquarium pH Monitoring System](https://github.com/yourrepository)
+### 🔹 [IoT Aquarium pH Monitoring System](https://github.com/Ubeid02/Ph_Pro)
 Built an IoT-based system to monitor and stabilize aquarium water pH levels in real-time, ensuring an optimal environment for aquatic life.
 
-### 🔹 [Satria Route Finder](https://github.com/yourrepository)
+### 🔹 [Satria Route Finder](https://github.com/Ubeid02/Bus-Satria-App)
 Award-winning public transport tracking app for users and drivers, developed for the city of Kediri.
 
 Feel free to check out my repositories and code on [GitHub](https://github.com/yourusername)!
