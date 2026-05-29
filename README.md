@@ -1,17 +1,27 @@
 # Hi there! 👋 I'm Ubeid Brimbi Sentiaki!
 
-I'm an **Electrical Engineering Student** at Universitas Islam Kadiri, Kediri, and a **Front-End Developer** with a passion for building functional and aesthetically pleasing web applications. I enjoy leveraging technologies like HTML, CSS, JavaScript, and PHP, alongside frameworks such as **Bootstrap**, **Tailwind CSS**, and **Laravel** to create intuitive and responsive user interfaces.
+I'm an **Electrical Engineering Graduate** from Universitas Islam Kadiri, Kediri, with a strong passion for **Software Development, IoT Systems, and Artificial Intelligence**. I specialize in building functional, scalable, and user-friendly digital solutions that bridge hardware and software into impactful real-world applications.
+
+With experience in both academic and professional projects, I enjoy transforming ideas into products through clean code, collaborative workflows, and continuous learning. I actively use modern development tools and maintain efficient workflows using **Git & GitHub** for version control and team collaboration.
 
 ## 🔧 Skills
-- **Front-End Development**: HTML, CSS, Bootstrap, Tailwind CSS
+- **Front-End Development**: HTML, CSS, Bootstrap, Tailwind CSS, ReactJS, NodeJS
 - **Back-End Development**: PHP, Laravel
 - **IoT Development**: Arduino, Sensor Integration
 - **Web Design & UX/UI**
+- **Machine Learning**: Tensorflow, CNN & Transfer Learning, Computer Vision
 - **Version Control**: Git, GitHub
 - **Teamwork & Project Management**
 
 ## 🏆 Achievements
-- **1st Place INOTEK Kota Kediri**: Developed the Satria Route Finder, an app to simplify user and driver tracking for public transportation in Kediri.
+
+### 🥇 1st Place — INOTEK Kota Kediri
+
+Developed **Satria Route Finder**, an innovative public transportation tracking application that simplifies route monitoring and driver-user connectivity for urban transportation in Kediri.
+
+### 🚀 National Start-Up Competition Semifinalist
+
+Became a semifinalist with **Amerta Boga**, a digital marketplace platform connecting farmers and livestock producers directly with consumers and businesses.
 
 ## 📚 Projects
 ### 🔹 [Job Management Platform](https://github.com/Ubeid02/inka_stages)
@@ -40,4 +50,9 @@ Feel free to check out my repositories and code on [GitHub](https://github.com/y
 
 ---
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/ubeidbrimbisentiaki/)!
+## 🌐 Let's Connect!
+
+* LinkedIn: https://www.linkedin.com/in/ubeidbrimbisentiaki/
+* GitHub: https://github.com/Ubeid02
+
+> “Building technology is not only about writing code — it is about creating solutions that leave footprints in people's lives.”
